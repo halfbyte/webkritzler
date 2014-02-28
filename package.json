@@ -1,5 +1,5 @@
 {
-  "name": "kritzlerweb",
+  "name": "webkritzler",
   "version": "0.0.1",
   "description": "A Webservice API for Kritzler",
   "main": "index.js",
